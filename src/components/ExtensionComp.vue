@@ -38,6 +38,7 @@
 
 .left{
     width: 672px;
+    position: relative;
     h1{
         font-family: "Inter", sans-serif;
         font-size: 64px;
@@ -50,8 +51,8 @@
 
     .elemento{
         position: absolute;
-        top: 2970px;
-        left: 400px;
+        top: 60px;
+        left: 130px;
         z-index: 1;
     }
 

@@ -39,6 +39,7 @@
 
 .right{
     width: 669px;
+    position: relative;
     h1{
         font-family: "Inter", sans-serif;
         font-size: 64px;
@@ -51,8 +52,8 @@
 
     .elemento{
         position: absolute;
-        top: 3750px;
-        right: 320px;
+        top: 95px;
+        right: 25px;
         z-index: 1;
     }
 
@@ -87,7 +88,7 @@
 
 .left{
     background-color: var(--third-color);
-    width: 824px;
+    width: 704px;
     height: 549px;
 }
 </style>

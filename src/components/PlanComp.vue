@@ -83,7 +83,7 @@
     flex-direction: column;
     width: 100%;
     padding: 0px 220px;
-    height: 100vh;
+    height: 120vh;
     position: relative;
 }
 

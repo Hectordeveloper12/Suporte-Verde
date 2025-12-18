@@ -43,6 +43,7 @@
 }
 
 .right{
+    position: relative;
     width: 672px;
     h1{
         font-family: "Inter", sans-serif;

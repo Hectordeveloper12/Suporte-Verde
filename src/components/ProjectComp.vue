@@ -32,7 +32,7 @@
     padding: 0px 220px;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
 
     .fundo{
         position: absolute;
@@ -42,6 +42,7 @@
 
 .left{
     width: 672px;
+    position: relative;
     h1{
         font-family: "Inter", sans-serif;
         font-size: 64px;
@@ -49,12 +50,11 @@
         color: var(--black);
         z-index: 10;
         position: relative;
-
     }
 
     .elemento{
         position: absolute;
-        top: 1450px;
+        top: 95px;
         z-index: 1;
     }
 
@@ -88,7 +88,7 @@
 
 .right{
     background-color: var(--third-color);
-    width: 824px;
+    width: 704px;
     height: 549px;
 }
 </style>
