@@ -6,11 +6,11 @@
 <section class="project-section">
 
     <div class="left">
-        <h1>100% your data</h1>
+        <h1>100% seus dados</h1>
         <img src="../assets/img/Element6.svg" alt="" class="elemento">
-        <p>The app is open source and your notes are saved to an open format, so you'll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.</p>
+        <p>TO aplicativo é de código aberto e suas anotações são salvas em formato aberto, para que você sempre tenha acesso a elas. Usa criptografia ponta a ponta (E2EE) para proteger suas anotações e garantir que não há nenhum acesso.</p>
         <button>
-            <a href="#">Read more</a><img src="../assets/img/Icon.svg" alt="">
+            <a href="#">Saiba mais</a><img src="../assets/img/Icon.svg" alt="">
         </button>
     </div>
 
@@ -54,8 +54,9 @@
     .elemento{
         position: absolute;
         top: 55px;
-        left: 180px;
+        right: 120px;
         z-index: 1;
+        width: 230px;
     }
 
     p{
@@ -68,7 +69,7 @@
     }
 
     button{
-        width: 219px;
+        width: 160px;
         height: 63px;
         border-radius: 8px;
         border: none;

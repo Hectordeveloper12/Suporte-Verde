@@ -12,16 +12,16 @@
     <div class="navbar">
 <div class="nav-menu">
         <ul>
-            <li><a href="#">Products</a><img src="../assets/img/Vector.svg" alt=""></li>
-            <li><a href="#">Solutions</a><img src="../assets/img/Vector.svg" alt=""></li>
-            <li><a href="#">Resources</a><img src="../assets/img/Vector.svg" alt=""></li>
-            <li><a href="#">Pricing</a><img src="../assets/img/Vector.svg" alt=""></li>
+            <li><a href="#">Produtos</a><img src="../assets/img/Vector.svg" alt=""></li>
+            <li><a href="#">Soluções</a><img src="../assets/img/Vector.svg" alt=""></li>
+            <li><a href="#">Recursos</a><img src="../assets/img/Vector.svg" alt=""></li>
+            <li><a href="#">Preços</a><img src="../assets/img/Vector.svg" alt=""></li>
         </ul>
     </div>
 
     <div class="button">
-        <button class="login"><a href="#">Login</a></button>
-        <button class="whitespacefree"><a href="#">Try Whitespace free</a><img src="../assets/img/Icon.svg" alt=""></button>
+        <button class="login"><a href="#">Entrar</a></button>
+        <button class="whitespacefree"><a href="#">Experimente o Whitespace</a><img src="../assets/img/Icon.svg" alt=""></button>
     </div>
     </div>
 
@@ -90,7 +90,7 @@ header{
     }
 
     .whitespacefree{
-        width: 227px;
+        width: 267px;
         height: 60px;
         border-radius: 8px;
         border: none;

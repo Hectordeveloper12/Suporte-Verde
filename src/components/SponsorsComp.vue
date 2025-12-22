@@ -36,7 +36,7 @@
 }
 
 .content{
-    width: 672px;
+    width: 100%;
     position: relative;
     margin-bottom: 100px;
     h1{
@@ -47,14 +47,16 @@
         z-index: 10;
         position: relative;
         text-align: center;
+        width: 100;
 
     }
 
     .elemento{
         position: absolute;
-        top: 55px;
-        left: 250px;
+        top: 40px;
+        right: 350px;
         z-index: 1;
+        width: 500px;
     }
 
     p{

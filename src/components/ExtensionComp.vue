@@ -6,11 +6,11 @@
 <section class="extension-section">
 
     <div class="left">
-        <h1>Use as Extension</h1>
+        <h1>Usar como extensão</h1>
         <img src="../assets/img/Element4.svg" alt="" class="elemento">
-        <p>Use the web clipper extension, available on Chrome and Firefox, to save web pages or take screenshots as notes.</p>
+        <p>Use a extensão web clipper, disponível no Chrome e Firefox, para salvar páginas da web ou fazer capturas de tela como notas.</p>
         <button>
-            <a href="#">Let’s Go</a>
+            <a href="#">Vamos lá</a>
         </button>
     </div>
 
@@ -51,8 +51,8 @@
 
     .elemento{
         position: absolute;
-        top: 60px;
-        left: 130px;
+        top: 57px;
+        right: 10px;
         z-index: 1;
     }
 

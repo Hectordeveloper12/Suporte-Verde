@@ -8,11 +8,11 @@
     <img src="../assets/img/BACKGROUND.svg" alt="logo" class="fundo">
 
     <div class="left">
-        <h1>Project <br> Management</h1>
+        <h1>Projeto <br> Gestão</h1>
         <img src="../assets/img/Element2.svg" alt="" class="elemento">
-        <p>Images, videos, PDFs and audio files are supported. Create math expressions and diagrams directly from the app. Take photos with the mobile app and save them to a note.</p>
+        <p>Imagens, vídeos, PDFs e arquivos de áudio são suportados. Crie expressões matemáticas e diagramas diretamente do aplicativo. Tire fotos com o aplicativo móvel e salve-as em uma nota.</p>
         <button>
-            <a href="#">Get Started</a><img src="../assets/img/Icon.svg" alt="">
+            <a href="#">Comece agora mesmo</a><img src="../assets/img/Icon.svg" alt="">
         </button>
     </div>
 
@@ -54,8 +54,9 @@
 
     .elemento{
         position: absolute;
-        top: 95px;
+        top: 115px;
         z-index: 1;
+        width: 380px;
     }
 
     p{

@@ -10,12 +10,12 @@
     </div>
 
     <div class="right">
-        <h1>Work together</h1>
+        <h1>Trabalhar Juntos</h1>
         <img src="../assets/img/Element3.svg" alt="" class="elemento">
-        <p>With whitepace, share your notes with your colleagues and collaborate on them. You can also publish a note to the internet and share the URL with others.
+        <p>Com o whitepace, compartilhe suas anotações com seus colegas e colabore nelas. Você também pode publicar uma nota na internet e compartilhar o URL com outras pessoas.
 </p>
         <button>
-            <a href="#">Try it now</a><img src="../assets/img/Icon.svg" alt="">
+            <a href="#">Experimente agora</a><img src="../assets/img/Icon.svg" alt="">
         </button>
     </div>
 
@@ -54,8 +54,9 @@
     .elemento{
         position: absolute;
         top: 50px;
-        right: 200px;
+        right: 130px;
         z-index: 1;
+        width: 260px;
     }
 
     p{

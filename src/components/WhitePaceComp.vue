@@ -5,15 +5,15 @@
 <template>
 <section class="yowork">
     <div class="content">
-        <h1>Try Whitepace today</h1>
+        <h1>Experimente o Whitepace hoje mesmo</h1>
 
-        <p>Get started for free. <br> Add your whole team as your needs grow.</p>
+        <p>Comece de graça. <br> Adicione toda a sua equipe à medida que suas necessidades aumentam.</p>
 
         <button>
-            <a href="#">Try Taskey free</a>
+            <a href="#">Experimente Taskey grátis</a>
         </button>
 
-        <p>On a big team? Contact sales</p>
+        <p>Numa grande equipe? Entre em contato com vendas</p>
             <div class="logos">
         <img src="../assets/img/appleblack.svg" alt="">
         <img src="../assets/img/windows.svg" alt="">

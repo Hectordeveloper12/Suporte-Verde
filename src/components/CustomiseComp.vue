@@ -10,12 +10,14 @@
     </div>
 
     <div class="right">
-        <h1>Customise it to <br> your needs</h1>
+        <h1>Personalize-o para<br> suas necessidades</h1>
         <img src="../assets/img/Element5.svg" alt="" class="elemento">
-        <p>Customise the app with plugins, custom themes and multiple text editors (Rich <br> Text or Markdown). Or create your own scripts and plugins using the Extension <br> API.
+        <p>Personalize o aplicativo com plugins, temas personalizados e vários editores de texto (Rich
+Texto ou Markdown). Ou crie seus próprios scripts e plugins usando a Extensão
+API.
 </p>
         <button>
-            <a href="#">Let’s Go</a><img src="../assets/img/Icon.svg" alt="">
+            <a href="#">Vamos lá</a><img src="../assets/img/Icon.svg" alt="">
         </button>
     </div>
 
@@ -52,8 +54,8 @@
 
     .elemento{
         position: absolute;
-        top: 95px;
-        right: 25px;
+        top: 87px;
+        right: -120px;
         z-index: 1;
     }
 

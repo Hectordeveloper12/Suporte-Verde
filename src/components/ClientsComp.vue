@@ -5,7 +5,7 @@
 <template>
 <section class="clients-section">
     <div class="title">
-        <h1>What Our Clients Says</h1>
+        <h1>O que nossos clientes dizem</h1>
         <img src="../assets/img/Element8.svg" alt="">
     </div>
 
@@ -15,14 +15,14 @@
 
             <div class="top">
                 <img src="../assets/img/Quote.svg" alt="">
-                <p>Whitepate is designed as a collaboration tool <br> for businesses that is a full project management solution.</p>
+                <p>O Whitepate foi concebido como uma ferramenta de colaboração para empresas, essa é uma solução completa de gerenciamento de projetos.</p>
             </div>
             
             <div class="perfil">
                 <img src="../assets/img/Avater.svg" alt="">
                 <div class="content-perfil">
                     <h1>Oberon Shaw, MCH</h1>
-                    <p>Head of Talent Acquisition, North America</p>
+                    <p>Chefe de Aquisição de Talentos, América do Norte</p>
                 </div>
             </div>
             
@@ -32,14 +32,15 @@
 
             <div class="top">
                 <img src="../assets/img/QuoteBlue.svg" alt="">
-                <p>Whitepate is designed as a collaboration tool <br> for businesses that is a full project management solution.</p>
+                <p>O Whitepate foi concebido como uma ferramenta de colaboração
+para empresas, essa é uma solução completa de gerenciamento de projetos.</p>
             </div>
             
             <div class="perfil">
                 <img src="../assets/img/Avater2.svg" alt="">
                 <div class="content-perfil">
                     <h1>Oberon Shaw, MCH</h1>
-                    <p>Head of Talent Acquisition, North America</p>
+                    <p>Chefe de Aquisição de Talentos, América do Norte</p>
                 </div>
             </div>
         </div>
@@ -49,14 +50,15 @@
             
             <div class="top">
                 <img src="../assets/img/QuoteBlue.svg" alt="">
-                <p>Whitepate is designed as a collaboration tool <br> for businesses that is a full project management solution.</p>
+                <p>O Whitepate foi concebido como uma ferramenta de colaboração
+para empresas, essa é uma solução completa de gerenciamento de projetos.</p>
             </div>
             
             <div class="perfil">
                 <img src="../assets/img/Avater3.svg" alt="">
                 <div class="content-perfil">
                     <h1>Oberon Shaw, MCH</h1>
-                    <p>Head of Talent Acquisition, North America</p>
+                    <p>Chefe de Aquisição de Talentos, América do Norte</p>
                 </div>
             </div>
         </div>
@@ -87,8 +89,8 @@
 
     img{
         position: absolute;
-        top: 30px;
-        right: -80px;
+        top: 40px;
+        right: -60px;
     }
 }
 

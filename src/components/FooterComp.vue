@@ -7,43 +7,43 @@
     <div class="content">
         <div class="divisor cntt1">
             <img src="../assets/img/Logo.svg" alt="">
-            <p>whitepace was created for the new ways we live and work. We make a better workspace around the world</p>
+            <p>O whitepace foi criado para as novas maneiras como vivemos e trabalhamos. Criamos um melhor espaço de trabalho em todo o mundo</p>
         </div>
 
         <div class="divisor">
-            <h2>Product</h2>
-            <p>Overview</p>
-            <p>Pricing</p>
-            <p>Customer stories</p>
+            <h2>Produto</h2>
+            <p>Visão geral</p>
+            <p>Preços</p>
+            <p>Histórias de clientes</p>
         </div>
 
         <div class="divisor">
-            <h2>Resources</h2>
+            <h2>Recursos</h2>
             <p>Blog</p>
-            <p>Guides & tutorials</p>
-            <p>Help center</p>
+            <p>Guias e tutoriais</p>
+            <p>Central de ajuda</p>
         </div>
 
         <div class="divisor">
-            <h2>Company</h2>
-            <p>About us</p>
-            <p>Careers</p>
-            <p>Media kit</p>
+            <h2>Empresa</h2>
+            <p>Sobre nós</p>
+            <p>Carreiras</p>
+            <p>Kit de mídia</p>
         </div>
 
         <div class="divisor">
-            <h1>Try It Today</h1>
-            <p>Get started for free. Add your <br> whole team as your needs grow.</p>
-            <button>Start today</button>
+            <h1>Experimente hoje mesmo</h1>
+            <p>Comece de graça. Adicione o seu <br> toda a equipe conforme suas necessidades crescem.</p>
+            <button>Comece hoje</button>
         </div>
     </div>
 
 
     <div class="infos">
         <div class="left">
-            <p>English</p>
-            <p>Terms & privacy</p>
-            <p>Security</p>
+            <p>Português</p>
+            <p>Termos e privacidade</p>
+            <p>Segurança</p>
             <p>Status</p>
             <p>©2021 Whitepace LLC.</p>
         </div>

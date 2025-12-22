@@ -10,11 +10,12 @@
     </div>
 
     <div class="right">
-        <h1>Work with Your Favorite Apps Using whitepace</h1>
-        <p>Whitepace teams up with your favorite software. Integrate with over 1000+ apps with Zapier to have all the tools you need for your project success.
+        <h1>Trabalhe com seus aplicativos favoritos usando whitepace
+</h1>
+        <p>A Whitepace se une ao seu software favorito. Integre-se com mais de 1000+ aplicativos com o Zapier para ter todas as ferramentas necessárias para o sucesso do seu projeto.
 </p>
         <button>
-            <a href="#">Read more</a><img src="../assets/img/Icon.svg" alt="">
+            <a href="#">Saiba mais</a><img src="../assets/img/Icon.svg" alt="">
         </button>
     </div>
 

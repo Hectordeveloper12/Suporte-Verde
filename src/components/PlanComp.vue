@@ -5,29 +5,29 @@
 <template>
 <section class="plan-section">
     <div class="content">
-        <h1>Choose Your Plan</h1>
+        <h1>Escolha seu plano</h1>
         <img src="../assets/img/Element6.svg" alt="">
-        <p>Whether you want to get organized, keep your personal life on track, or boost workplace productivity, Evernote has the right plan for you.</p>
+        <p>Quer você queira se organizar, manter sua vida pessoal no caminho certo ou aumentar a produtividade no local de trabalho, o Evernote tem o plano certo para você.</p>
     </div>
 
     <div class="cards">
     <div class="side">
-        <h3>Free</h3>
+        <h3>Grátis</h3>
         <h2>$0</h2>
-        <h4>Capture ideas and find them quickly</h4>
+        <h4>Capture ideias e encontre-as rapidamente</h4>
 
         <div class="info">
-        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""> <p>Sync unlimited devices</p></div>
-        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>10 GB monthly uploads</p></div>
-        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>200 MB max. note size</p></div>
-        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Customize Home dashboard and access extra widgets</p></div>
-        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Connect primary Google Calendar account</p></div>
-        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Add due dates, reminders, and notifications to your tasks</p></div>
+        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""> <p>Sincronize dispositivos ilimitados</p></div>
+        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Uploads mensais de 10 GB</p></div>
+        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Tamanho máximo da nota de 200 MB</p></div>
+        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Personalize o painel inicial e acesse widgets extras</p></div>
+        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Conecte a conta principal do Google Agenda</p></div>
+        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Adicione datas de vencimento, lembretes e notificações às suas tarefas</p></div>
         </div>
 
 
         <button>
-<a href="#">Get Started</a>
+<a href="#">Comece agora mesmo</a>
         </button>
     </div>
 
@@ -37,17 +37,17 @@
         <h4>Keep home and family on track</h4>
 
         <div class="info">
-        <div class="englobar"><img src="../assets/img/Icon3.svg" alt=""><p>Sync unlimited devices</p></div>
-        <div class="englobar"><img src="../assets/img/Icon3.svg" alt=""><p>10 GB monthly uploads</p></div>
-        <div class="englobar"><img src="../assets/img/Icon3.svg" alt=""><p>200 MB max. note size</p></div>
-        <div class="englobar"><img src="../assets/img/Icon3.svg" alt=""><p>Customize Home dashboard and access extra widgets</p></div>
-        <div class="englobar"><img src="../assets/img/Icon3.svg" alt=""><p>Connect primary Google Calendar account</p></div>
-        <div class="englobar"><img src="../assets/img/Icon3.svg" alt=""><p>Add due dates, reminders, and notifications to your tasks</p></div>
+        <div class="englobar"><img src="../assets/img/Icon3.svg" alt=""><p>Sincronize dispositivos ilimitados</p></div>
+        <div class="englobar"><img src="../assets/img/Icon3.svg" alt=""><p>Uploads mensais de 10 GB</p></div>
+        <div class="englobar"><img src="../assets/img/Icon3.svg" alt=""><p>Tamanho máximo da nota de 200 MB</p></div>
+        <div class="englobar"><img src="../assets/img/Icon3.svg" alt=""><p>Personalize o painel inicial e acesse widgets extras</p></div>
+        <div class="englobar"><img src="../assets/img/Icon3.svg" alt=""><p>Conecte a conta principal do Google Agenda</p></div>
+        <div class="englobar"><img src="../assets/img/Icon3.svg" alt=""><p>Adicione datas de vencimento, lembretes e notificações às suas tarefas</p></div>
         </div>
 
 
         <button>
-<a href="#">Get Started</a>
+<a href="#">Comece agora mesmo</a>
         </button>
     </div>
 
@@ -57,17 +57,17 @@
         <h4>Capture ideas and find them quickly</h4>
 
         <div class="info">
-        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""> <p>Sync unlimited devices</p></div>
-        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>10 GB monthly uploads</p></div>
-        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>200 MB max. note size</p></div>
-        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Customize Home dashboard and access extra widgets</p></div>
-        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Connect primary Google Calendar account</p></div>
-        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Add due dates, reminders, and notifications to your tasks</p></div>
+        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""> <p>Sincronize dispositivos ilimitados</p></div>
+        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Uploads mensais de 10 GB</p></div>
+        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Tamanho máximo da nota de 200 MB</p></div>
+        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Personalize o painel inicial e acesse widgets extras</p></div>
+        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Conecte a conta principal do Google Agenda</p></div>
+        <div class="englobar"><img src="../assets/img/Icon2.svg" alt=""><p>Adicione datas de vencimento, lembretes e notificações às suas tarefas</p></div>
         </div>
 
 
         <button>
-<a href="#">Get Started</a>
+<a href="#">Comece agora mesmo</a>
         </button>
     </div>
 
@@ -114,7 +114,8 @@
     img{
         position: absolute;
         top: 60px;
-        left: 500px;
+        right: 160px;
+        width: 250px;
     }
 }
 
@@ -172,7 +173,7 @@
         }
 
         button{
-            width: 166px;
+            width: 190px;
             height: 51px;
             border-radius: 8px;
             border: 1px solid var(--first-color);
@@ -233,7 +234,7 @@
         }
 
         button{
-            width: 166px;
+            width: 190px;
             height: 51px;
             border-radius: 8px;
             background: var(--second-color);

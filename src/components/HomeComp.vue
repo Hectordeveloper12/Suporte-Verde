@@ -5,10 +5,10 @@
 <template>
 <section class="home-section">
     <div class="left">
-        <h1>Get More Done with whitepace</h1>
-        <p>Project management software that enables your teams to collaborate, plan, analyze and manage everyday tasks</p>
+        <h1>Faça mais com o whitepace</h1>
+        <p>Software de gerenciamento de projetos que permite que suas equipes colaborem, planejem, analisem e gerenciem tarefas cotidianas.</p>
         <button>
-            <a href="#">Try Whitespace free</a><img src="../assets/img/Icon.svg" alt="">
+            <a href="#">Experimente o whitespace</a><img src="../assets/img/Icon.svg" alt="">
         </button>
     </div>
 
@@ -50,7 +50,7 @@
     }
 
     button{
-        width: 219px;
+        width: 309px;
         height: 63px;
         border-radius: 8px;
         border: none;
